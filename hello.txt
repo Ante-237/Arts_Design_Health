@@ -3,9 +3,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello ! ! World
 =======
-"Hello ! ! World" 
+Hello ! ! World 
 >>>>>>> origin/Gatwaza_branch
 =======
 Hello ! ! World
@@ -14,8 +15,11 @@ Hello ! ! World
 Hello ! ! World
 >>>>>>> origin/Sugira_branch
 =======
-Hello ! ! world
+Hello ! ! World
 >>>>>>> origin/princess_branch
 =======
-Hello , World 
+Hello ! ! World 
+>>>>>>> origin/Gatwaza_branch
+=======
+Hello ! ! World
 >>>>>>> origin/Gatwaza_branch
