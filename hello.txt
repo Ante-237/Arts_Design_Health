@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello ! ! World
 =======
 "Hello ! ! World" 
@@ -11,3 +12,6 @@ Hello ! ! World
 =======
 Hello ! ! World
 >>>>>>> origin/Sugira_branch
+=======
+Hello ! ! world
+>>>>>>> origin/princess_branch
