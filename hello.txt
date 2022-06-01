@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello ! ! World
 =======
 Hello ! ! World 
@@ -31,3 +32,6 @@ Hello ! ! World
 =======
 Hello ! ! World
 >>>>>>> princess_branch
+=======
+Hello ! ! World
+>>>>>>> Sugira_branch
