@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello ! ! World
 =======
 Hello ! ! World 
@@ -23,3 +24,6 @@ Hello ! ! World
 =======
 Hello ! ! World
 >>>>>>> origin/Gatwaza_branch
+=======
+Hello ! ! World
+>>>>>>> Shema_branch
